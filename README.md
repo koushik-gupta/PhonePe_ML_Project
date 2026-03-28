@@ -2,6 +2,11 @@
 
 This project analyzes PhonePe Pulse data to understand transaction behavior, user engagement, insurance adoption, and top-performing geographic entities across India. The workflow follows a complete pipeline from JSON extraction to SQL-backed analysis and an interactive Streamlit dashboard.
 
+## Project Links
+
+- GitHub Repository: https://github.com/koushik-gupta/PhonePe_ML_Project
+- Live Streamlit App: https://phonepe-analytics-dashboard.streamlit.app/
+
 ## Project Workflow
 
 1. Extract nested PhonePe Pulse JSON files with Python.
