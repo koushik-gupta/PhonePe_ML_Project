@@ -1,0 +1,841 @@
+Year,Quarter,Type,Entity_Name,Registered_Users
+2018,1,State,Maharashtra,6106994
+2018,1,State,Uttar Pradesh,4694250
+2018,1,State,Karnataka,3717763
+2018,1,State,Andhra Pradesh,3336450
+2018,1,State,Telangana,3315560
+2018,1,State,Rajasthan,3158202
+2018,1,State,Gujarat,2690048
+2018,1,State,West Bengal,2604789
+2018,1,State,Madhya Pradesh,2553603
+2018,1,State,Bihar,2133804
+2018,1,District,Bengaluru Urban,1922368
+2018,1,District,Pune,1211643
+2018,1,District,Jaipur,900773
+2018,1,District,Mumbai Suburban,719300
+2018,1,District,Hyderabad,655175
+2018,1,District,Rangareddy,635175
+2018,1,District,Thane,631864
+2018,1,District,Ahmadabad,572811
+2018,1,District,Medchal Malkajgiri,549429
+2018,1,District,Visakhapatnam,497187
+2018,1,Pincode,201301,114625
+2018,1,Pincode,500072,105012
+2018,1,Pincode,560068,98487
+2018,1,Pincode,110059,95496
+2018,1,Pincode,110092,83600
+2018,1,Pincode,122001,82656
+2018,1,Pincode,560037,75304
+2018,1,Pincode,395006,72275
+2018,1,Pincode,800001,71092
+2018,1,Pincode,302012,68098
+2018,2,State,Maharashtra,8222371
+2018,2,State,Uttar Pradesh,6442554
+2018,2,State,Karnataka,5030665
+2018,2,State,Andhra Pradesh,4402540
+2018,2,State,Telangana,4260115
+2018,2,State,Rajasthan,4212964
+2018,2,State,West Bengal,3833795
+2018,2,State,Gujarat,3565825
+2018,2,State,Madhya Pradesh,3441662
+2018,2,State,Bihar,3005872
+2018,2,District,Bengaluru Urban,2553312
+2018,2,District,Pune,1592293
+2018,2,District,Jaipur,1182983
+2018,2,District,Mumbai Suburban,957633
+2018,2,District,Thane,861292
+2018,2,District,Hyderabad,842483
+2018,2,District,Rangareddy,804959
+2018,2,District,Ahmadabad,751746
+2018,2,District,Medchal Malkajgiri,696211
+2018,2,District,Surat,652372
+2018,2,Pincode,201301,151073
+2018,2,Pincode,500072,129543
+2018,2,Pincode,560068,128921
+2018,2,Pincode,110059,124901
+2018,2,Pincode,110092,108175
+2018,2,Pincode,122001,107275
+2018,2,Pincode,800001,94711
+2018,2,Pincode,395006,94500
+2018,2,Pincode,560037,93771
+2018,2,Pincode,302012,89071
+2018,3,State,Maharashtra,10435033
+2018,3,State,Uttar Pradesh,8096483
+2018,3,State,Karnataka,6372649
+2018,3,State,Andhra Pradesh,5427617
+2018,3,State,Rajasthan,5175453
+2018,3,State,Telangana,5138501
+2018,3,State,West Bengal,4851740
+2018,3,State,Gujarat,4433183
+2018,3,State,Madhya Pradesh,4309309
+2018,3,State,Tamil Nadu,3900177
+2018,3,District,Bengaluru Urban,3167597
+2018,3,District,Pune,1974138
+2018,3,District,Jaipur,1438305
+2018,3,District,Mumbai Suburban,1218632
+2018,3,District,Thane,1104206
+2018,3,District,Hyderabad,1024241
+2018,3,District,Rangareddy,963186
+2018,3,District,Ahmadabad,919252
+2018,3,District,Medchal Malkajgiri,828425
+2018,3,District,Surat,808005
+2018,3,Pincode,201301,188664
+2018,3,Pincode,110059,156028
+2018,3,Pincode,500072,152034
+2018,3,Pincode,560068,151862
+2018,3,Pincode,110092,136676
+2018,3,Pincode,122001,130847
+2018,3,Pincode,395006,113391
+2018,3,Pincode,302012,107088
+2018,3,Pincode,560037,106572
+2018,3,Pincode,800001,106255
+2018,4,State,Maharashtra,13381602
+2018,4,State,Uttar Pradesh,10341964
+2018,4,State,Karnataka,8315802
+2018,4,State,Andhra Pradesh,6857409
+2018,4,State,Telangana,6529679
+2018,4,State,Rajasthan,6358738
+2018,4,State,West Bengal,6279278
+2018,4,State,Gujarat,5579040
+2018,4,State,Madhya Pradesh,5365442
+2018,4,State,Tamil Nadu,5199878
+2018,4,District,Bengaluru Urban,4126734
+2018,4,District,Pune,2498852
+2018,4,District,Jaipur,1733893
+2018,4,District,Mumbai Suburban,1578487
+2018,4,District,Thane,1473811
+2018,4,District,Hyderabad,1336872
+2018,4,District,Rangareddy,1217664
+2018,4,District,Ahmadabad,1212636
+2018,4,District,Medchal Malkajgiri,1056739
+2018,4,District,Surat,998807
+2018,4,Pincode,201301,250205
+2018,4,Pincode,110059,206537
+2018,4,Pincode,560068,201605
+2018,4,Pincode,110092,177133
+2018,4,Pincode,500072,175163
+2018,4,Pincode,122001,163556
+2018,4,Pincode,560037,137280
+2018,4,Pincode,800001,134254
+2018,4,Pincode,110086,133412
+2018,4,Pincode,110085,132600
+2019,1,State,Maharashtra,16284451
+2019,1,State,Uttar Pradesh,12458661
+2019,1,State,Karnataka,10266174
+2019,1,State,Andhra Pradesh,8283019
+2019,1,State,Telangana,7963425
+2019,1,State,Rajasthan,7712204
+2019,1,State,West Bengal,7449425
+2019,1,State,Gujarat,6652536
+2019,1,State,Madhya Pradesh,6414403
+2019,1,State,Tamil Nadu,6296303
+2019,1,District,Bengaluru Urban,5003207
+2019,1,District,Pune,3038402
+2019,1,District,Jaipur,2060175
+2019,1,District,Mumbai Suburban,1901210
+2019,1,District,Thane,1834051
+2019,1,District,Hyderabad,1638436
+2019,1,District,Rangareddy,1470874
+2019,1,District,Ahmadabad,1450100
+2019,1,District,Medchal Malkajgiri,1279531
+2019,1,District,Surat,1180819
+2019,1,Pincode,201301,301260
+2019,1,Pincode,110059,246566
+2019,1,Pincode,560068,237280
+2019,1,Pincode,500072,221180
+2019,1,Pincode,110092,206805
+2019,1,Pincode,122001,194366
+2019,1,Pincode,110086,158267
+2019,1,Pincode,560078,157977
+2019,1,Pincode,395006,157558
+2019,1,Pincode,560076,157367
+2019,2,State,Maharashtra,18776975
+2019,2,State,Uttar Pradesh,14316349
+2019,2,State,Karnataka,11968087
+2019,2,State,Andhra Pradesh,9389003
+2019,2,State,Telangana,9046007
+2019,2,State,Rajasthan,8783935
+2019,2,State,West Bengal,8612795
+2019,2,State,Gujarat,7574645
+2019,2,State,Tamil Nadu,7429609
+2019,2,State,Madhya Pradesh,7301172
+2019,2,District,Bengaluru Urban,5694165
+2019,2,District,Pune,3514081
+2019,2,District,Jaipur,2290462
+2019,2,District,Mumbai Suburban,2151657
+2019,2,District,Thane,2118406
+2019,2,District,Hyderabad,1856926
+2019,2,District,Ahmadabad,1656341
+2019,2,District,Rangareddy,1651300
+2019,2,District,Medchal Malkajgiri,1428880
+2019,2,District,Surat,1338584
+2019,2,Pincode,201301,336709
+2019,2,Pincode,110059,274593
+2019,2,Pincode,560068,263531
+2019,2,Pincode,500072,242007
+2019,2,Pincode,110092,228546
+2019,2,Pincode,122001,217913
+2019,2,Pincode,421302,182371
+2019,2,Pincode,395006,180042
+2019,2,Pincode,560078,178837
+2019,2,Pincode,110086,177199
+2019,3,State,Maharashtra,21313081
+2019,3,State,Uttar Pradesh,16044607
+2019,3,State,Karnataka,13635075
+2019,3,State,Andhra Pradesh,10458693
+2019,3,State,Telangana,10090557
+2019,3,State,Rajasthan,9797304
+2019,3,State,West Bengal,9643222
+2019,3,State,Gujarat,8429299
+2019,3,State,Tamil Nadu,8428835
+2019,3,State,Madhya Pradesh,8180664
+2019,3,District,Bengaluru Urban,6383771
+2019,3,District,Pune,4004991
+2019,3,District,Jaipur,2520933
+2019,3,District,Mumbai Suburban,2407754
+2019,3,District,Thane,2396815
+2019,3,District,Hyderabad,2071673
+2019,3,District,Ahmadabad,1848860
+2019,3,District,Rangareddy,1826019
+2019,3,District,Medchal Malkajgiri,1572320
+2019,3,District,Surat,1481391
+2019,3,Pincode,201301,369425
+2019,3,Pincode,110059,300007
+2019,3,Pincode,560068,289417
+2019,3,Pincode,500072,261019
+2019,3,Pincode,110092,248727
+2019,3,Pincode,122001,239679
+2019,3,Pincode,421302,208109
+2019,3,Pincode,395006,198132
+2019,3,Pincode,110086,194575
+2019,3,Pincode,800001,194197
+2019,4,State,Maharashtra,23745297
+2019,4,State,Uttar Pradesh,17949542
+2019,4,State,Karnataka,15385416
+2019,4,State,Andhra Pradesh,11757883
+2019,4,State,Telangana,11220691
+2019,4,State,Rajasthan,10925031
+2019,4,State,West Bengal,10885058
+2019,4,State,Tamil Nadu,9620493
+2019,4,State,Gujarat,9323799
+2019,4,State,Madhya Pradesh,9165241
+2019,4,District,Bengaluru Urban,7016836
+2019,4,District,Pune,4416899
+2019,4,District,Jaipur,2746860
+2019,4,District,Thane,2638051
+2019,4,District,Mumbai Suburban,2630360
+2019,4,District,Hyderabad,2283903
+2019,4,District,Ahmadabad,2015947
+2019,4,District,Rangareddy,2001437
+2019,4,District,Medchal Malkajgiri,1714832
+2019,4,District,North Twenty Four Parganas,1638605
+2019,4,Pincode,201301,398548
+2019,4,Pincode,110059,320535
+2019,4,Pincode,560068,313673
+2019,4,Pincode,500072,279498
+2019,4,Pincode,110092,264380
+2019,4,Pincode,122001,258880
+2019,4,Pincode,421302,243170
+2019,4,Pincode,560078,218317
+2019,4,Pincode,395006,214322
+2019,4,Pincode,560076,211683
+2020,1,State,Maharashtra,26168390
+2020,1,State,Uttar Pradesh,20136256
+2020,1,State,Karnataka,17016980
+2020,1,State,Andhra Pradesh,13022060
+2020,1,State,Telangana,12306860
+2020,1,State,Rajasthan,12142053
+2020,1,State,West Bengal,11960822
+2020,1,State,Tamil Nadu,10872368
+2020,1,State,Gujarat,10259843
+2020,1,State,Madhya Pradesh,10151371
+2020,1,District,Bengaluru Urban,7564577
+2020,1,District,Pune,4802397
+2020,1,District,Jaipur,2966508
+2020,1,District,Thane,2878073
+2020,1,District,Mumbai Suburban,2843378
+2020,1,District,Hyderabad,2483843
+2020,1,District,Ahmadabad,2185983
+2020,1,District,Rangareddy,2166829
+2020,1,District,Medchal Malkajgiri,1845599
+2020,1,District,North Twenty Four Parganas,1789973
+2020,1,Pincode,201301,425915
+2020,1,Pincode,110059,342152
+2020,1,Pincode,560068,334481
+2020,1,Pincode,500072,296003
+2020,1,Pincode,110092,280039
+2020,1,Pincode,122001,277400
+2020,1,Pincode,421302,270275
+2020,1,Pincode,560078,234102
+2020,1,Pincode,395006,230047
+2020,1,Pincode,110086,226703
+2020,2,State,Maharashtra,28765086
+2020,2,State,Uttar Pradesh,22498519
+2020,2,State,Karnataka,18655366
+2020,2,State,Andhra Pradesh,14319675
+2020,2,State,Rajasthan,13563201
+2020,2,State,Telangana,13378191
+2020,2,State,West Bengal,13222022
+2020,2,State,Tamil Nadu,12150786
+2020,2,State,Gujarat,11392657
+2020,2,State,Madhya Pradesh,11374423
+2020,2,District,Bengaluru Urban,8028070
+2020,2,District,Pune,5144688
+2020,2,District,Jaipur,3182014
+2020,2,District,Thane,3135101
+2020,2,District,Mumbai Suburban,3060916
+2020,2,District,Hyderabad,2653534
+2020,2,District,Ahmadabad,2384154
+2020,2,District,Rangareddy,2313748
+2020,2,District,North Twenty Four Parganas,1966125
+2020,2,District,Medchal Malkajgiri,1963353
+2020,2,Pincode,201301,445271
+2020,2,Pincode,110059,365614
+2020,2,Pincode,560068,351484
+2020,2,Pincode,500072,309469
+2020,2,Pincode,421302,298762
+2020,2,Pincode,110092,295000
+2020,2,Pincode,122001,293479
+2020,2,Pincode,560078,247869
+2020,2,Pincode,110086,246312
+2020,2,Pincode,395006,245129
+2020,3,State,Maharashtra,31409513
+2020,3,State,Uttar Pradesh,24838116
+2020,3,State,Karnataka,20487550
+2020,3,State,Andhra Pradesh,15692405
+2020,3,State,Rajasthan,14969412
+2020,3,State,Telangana,14590882
+2020,3,State,West Bengal,14448366
+2020,3,State,Tamil Nadu,13643451
+2020,3,State,Madhya Pradesh,12564224
+2020,3,State,Gujarat,12467847
+2020,3,District,Bengaluru Urban,8611452
+2020,3,District,Pune,5546002
+2020,3,District,Jaipur,3433167
+2020,3,District,Thane,3401853
+2020,3,District,Mumbai Suburban,3304696
+2020,3,District,Hyderabad,2875965
+2020,3,District,Ahmadabad,2580178
+2020,3,District,Rangareddy,2495699
+2020,3,District,North Twenty Four Parganas,2143943
+2020,3,District,Medchal Malkajgiri,2111567
+2020,3,Pincode,201301,472490
+2020,3,Pincode,110059,393571
+2020,3,Pincode,560068,373446
+2020,3,Pincode,421302,328833
+2020,3,Pincode,500072,328018
+2020,3,Pincode,110092,314384
+2020,3,Pincode,122001,314031
+2020,3,Pincode,110086,267186
+2020,3,Pincode,560078,265627
+2020,3,Pincode,121004,261230
+2020,4,State,Maharashtra,34432631
+2020,4,State,Uttar Pradesh,27249134
+2020,4,State,Karnataka,22400182
+2020,4,State,Andhra Pradesh,17076565
+2020,4,State,Rajasthan,16329494
+2020,4,State,Telangana,15927797
+2020,4,State,West Bengal,15662093
+2020,4,State,Tamil Nadu,15357586
+2020,4,State,Madhya Pradesh,13737947
+2020,4,State,Gujarat,13605203
+2020,4,District,Bengaluru Urban,9286243
+2020,4,District,Pune,6033615
+2020,4,District,Thane,3727358
+2020,4,District,Jaipur,3679874
+2020,4,District,Mumbai Suburban,3609970
+2020,4,District,Hyderabad,3142385
+2020,4,District,Ahmadabad,2787991
+2020,4,District,Rangareddy,2704868
+2020,4,District,North Twenty Four Parganas,2321888
+2020,4,District,Medchal Malkajgiri,2282695
+2020,4,Pincode,201301,504506
+2020,4,Pincode,110059,423149
+2020,4,Pincode,560068,399638
+2020,4,Pincode,421302,365506
+2020,4,Pincode,500072,350832
+2020,4,Pincode,122001,336803
+2020,4,Pincode,110092,335783
+2020,4,Pincode,110086,288308
+2020,4,Pincode,560078,285544
+2020,4,Pincode,121004,283882
+2021,1,State,Maharashtra,37077537
+2021,1,State,Uttar Pradesh,29482075
+2021,1,State,Karnataka,24095832
+2021,1,State,Andhra Pradesh,18363733
+2021,1,State,Rajasthan,17661088
+2021,1,State,Telangana,17149069
+2021,1,State,West Bengal,16808799
+2021,1,State,Tamil Nadu,16632608
+2021,1,State,Madhya Pradesh,14839427
+2021,1,State,Gujarat,14670126
+2021,1,District,Bengaluru Urban,9955387
+2021,1,District,Pune,6481971
+2021,1,District,Thane,4014464
+2021,1,District,Jaipur,3951866
+2021,1,District,Mumbai Suburban,3886500
+2021,1,District,Hyderabad,3379663
+2021,1,District,Ahmadabad,2999575
+2021,1,District,Rangareddy,2906635
+2021,1,District,North Twenty Four Parganas,2491076
+2021,1,District,Surat,2458596
+2021,1,Pincode,201301,541127
+2021,1,Pincode,110059,454201
+2021,1,Pincode,560068,427525
+2021,1,Pincode,421302,396179
+2021,1,Pincode,500072,375272
+2021,1,Pincode,122001,361360
+2021,1,Pincode,110092,359376
+2021,1,Pincode,110086,310419
+2021,1,Pincode,121004,306230
+2021,1,Pincode,560078,305721
+2021,2,State,Maharashtra,39664697
+2021,2,State,Uttar Pradesh,31651894
+2021,2,State,Karnataka,25751023
+2021,2,State,Andhra Pradesh,19620905
+2021,2,State,Rajasthan,18980985
+2021,2,State,Telangana,18306880
+2021,2,State,West Bengal,17979979
+2021,2,State,Tamil Nadu,17804542
+2021,2,State,Madhya Pradesh,15940935
+2021,2,State,Gujarat,15735981
+2021,2,District,Bengaluru Urban,10604609
+2021,2,District,Pune,6915820
+2021,2,District,Thane,4290066
+2021,2,District,Jaipur,4226231
+2021,2,District,Mumbai Suburban,4151227
+2021,2,District,Hyderabad,3598337
+2021,2,District,Ahmadabad,3209841
+2021,2,District,Rangareddy,3097973
+2021,2,District,North Twenty Four Parganas,2660664
+2021,2,District,Surat,2633443
+2021,2,Pincode,201301,577428
+2021,2,Pincode,110059,485328
+2021,2,Pincode,560068,455417
+2021,2,Pincode,421302,424376
+2021,2,Pincode,500072,398987
+2021,2,Pincode,122001,385555
+2021,2,Pincode,110092,383095
+2021,2,Pincode,110086,332618
+2021,2,Pincode,121004,328000
+2021,2,Pincode,560078,325334
+2021,3,State,Maharashtra,42581217
+2021,3,State,Uttar Pradesh,34151882
+2021,3,State,Karnataka,27614221
+2021,3,State,Andhra Pradesh,21059898
+2021,3,State,Rajasthan,20499465
+2021,3,State,Telangana,19615278
+2021,3,State,West Bengal,19323278
+2021,3,State,Tamil Nadu,19127440
+2021,3,State,Madhya Pradesh,17210233
+2021,3,State,Gujarat,16946761
+2021,3,District,Bengaluru Urban,11321012
+2021,3,District,Pune,7398336
+2021,3,District,Thane,4597394
+2021,3,District,Jaipur,4534297
+2021,3,District,Mumbai Suburban,4444495
+2021,3,District,Hyderabad,3839513
+2021,3,District,Ahmadabad,3445024
+2021,3,District,Rangareddy,3310906
+2021,3,District,North Twenty Four Parganas,2852030
+2021,3,District,Surat,2830392
+2021,3,Pincode,201301,618043
+2021,3,Pincode,110059,520096
+2021,3,Pincode,560068,486170
+2021,3,Pincode,421302,456284
+2021,3,Pincode,500072,425197
+2021,3,Pincode,122001,412737
+2021,3,Pincode,110092,409520
+2021,3,Pincode,110086,357590
+2021,3,Pincode,121004,352312
+2021,3,Pincode,560078,346840
+2021,4,State,Maharashtra,45482506
+2021,4,State,Uttar Pradesh,36617655
+2021,4,State,Karnataka,29459646
+2021,4,State,Andhra Pradesh,22489029
+2021,4,State,Rajasthan,21977202
+2021,4,State,Telangana,20917649
+2021,4,State,West Bengal,20644527
+2021,4,State,Tamil Nadu,20433142
+2021,4,State,Madhya Pradesh,18456243
+2021,4,State,Gujarat,18139201
+2021,4,District,Bengaluru Urban,12038775
+2021,4,District,Pune,7880431
+2021,4,District,Thane,4906492
+2021,4,District,Jaipur,4841883
+2021,4,District,Mumbai Suburban,4740546
+2021,4,District,Hyderabad,4081185
+2021,4,District,Ahmadabad,3679243
+2021,4,District,Rangareddy,3523496
+2021,4,District,North Twenty Four Parganas,3043008
+2021,4,District,Surat,3026960
+2021,4,Pincode,201301,659549
+2021,4,Pincode,110059,555449
+2021,4,Pincode,560068,517115
+2021,4,Pincode,421302,488443
+2021,4,Pincode,500072,451595
+2021,4,Pincode,122001,440178
+2021,4,Pincode,110092,436075
+2021,4,Pincode,110086,382858
+2021,4,Pincode,121004,376910
+2021,4,Pincode,560078,368213
+2022,1,State,Maharashtra,48227630
+2022,1,State,Uttar Pradesh,38999692
+2022,1,State,Karnataka,31200349
+2022,1,State,Andhra Pradesh,23857951
+2022,1,State,Rajasthan,23398857
+2022,1,State,Telangana,22150612
+2022,1,State,West Bengal,21919787
+2022,1,State,Tamil Nadu,21667020
+2022,1,State,Madhya Pradesh,19656147
+2022,1,State,Gujarat,19265314
+2022,1,District,Bengaluru Urban,12707664
+2022,1,District,Pune,8331582
+2022,1,District,Thane,5196050
+2022,1,District,Jaipur,5133527
+2022,1,District,Mumbai Suburban,5017556
+2022,1,District,Hyderabad,4306136
+2022,1,District,Ahmadabad,3897869
+2022,1,District,Rangareddy,3722676
+2022,1,District,North Twenty Four Parganas,3224459
+2022,1,District,Surat,3210535
+2022,1,Pincode,201301,698600
+2022,1,Pincode,110059,588266
+2022,1,Pincode,560068,545827
+2022,1,Pincode,421302,518716
+2022,1,Pincode,500072,476073
+2022,1,Pincode,122001,465984
+2022,1,Pincode,110092,460951
+2022,1,Pincode,110086,406863
+2022,1,Pincode,121004,400283
+2022,1,Pincode,560078,388154
+2022,2,State,Maharashtra,50802786
+2022,2,State,Uttar Pradesh,41247289
+2022,2,State,Karnataka,32831447
+2022,2,State,Andhra Pradesh,25157264
+2022,2,State,Rajasthan,24716181
+2022,2,State,Telangana,23314363
+2022,2,State,West Bengal,23124388
+2022,2,State,Tamil Nadu,22829720
+2022,2,State,Madhya Pradesh,20766417
+2022,2,State,Gujarat,20321596
+2022,2,District,Bengaluru Urban,13342916
+2022,2,District,Pune,8757249
+2022,2,District,Thane,5471749
+2022,2,District,Jaipur,5409763
+2022,2,District,Mumbai Suburban,5281053
+2022,2,District,Hyderabad,4519625
+2022,2,District,Ahmadabad,4105172
+2022,2,District,Rangareddy,3911372
+2022,2,District,North Twenty Four Parganas,3397791
+2022,2,District,Surat,3385398
+2022,2,Pincode,201301,735907
+2022,2,Pincode,110059,619737
+2022,2,Pincode,560068,573310
+2022,2,Pincode,421302,547501
+2022,2,Pincode,500072,499269
+2022,2,Pincode,122001,490709
+2022,2,Pincode,110092,484816
+2022,2,Pincode,110086,429566
+2022,2,Pincode,121004,422488
+2022,2,Pincode,560078,407066
+2022,3,State,Maharashtra,53432602
+2022,3,State,Uttar Pradesh,43537920
+2022,3,State,Karnataka,34493994
+2022,3,State,Andhra Pradesh,26496330
+2022,3,State,Rajasthan,26042948
+2022,3,State,Telangana,24506111
+2022,3,State,West Bengal,24372048
+2022,3,State,Tamil Nadu,24019964
+2022,3,State,Madhya Pradesh,21884220
+2022,3,State,Gujarat,21394721
+2022,3,District,Bengaluru Urban,13997602
+2022,3,District,Pune,9194074
+2022,3,District,Thane,5757165
+2022,3,District,Jaipur,5696726
+2022,3,District,Mumbai Suburban,5555095
+2022,3,District,Hyderabad,4739891
+2022,3,District,Ahmadabad,4319512
+2022,3,District,Rangareddy,4105107
+2022,3,District,North Twenty Four Parganas,3578500
+2022,3,District,Surat,3567767
+2022,3,Pincode,201301,774591
+2022,3,Pincode,110059,652328
+2022,3,Pincode,560068,601656
+2022,3,Pincode,421302,577754
+2022,3,Pincode,500072,523196
+2022,3,Pincode,122001,516313
+2022,3,Pincode,110092,509260
+2022,3,Pincode,110086,453393
+2022,3,Pincode,121004,445822
+2022,3,Pincode,201009,428994
+2022,4,State,Maharashtra,55954028
+2022,4,State,Uttar Pradesh,45648650
+2022,4,State,Karnataka,36081698
+2022,4,State,Andhra Pradesh,27778016
+2022,4,State,Rajasthan,27255927
+2022,4,State,Telangana,25656381
+2022,4,State,West Bengal,25536381
+2022,4,State,Tamil Nadu,25136112
+2022,4,State,Madhya Pradesh,22913924
+2022,4,State,Gujarat,22412353
+2022,4,District,Bengaluru Urban,14654455
+2022,4,District,Pune,9622338
+2022,4,District,Thane,6042267
+2022,4,District,Jaipur,5975863
+2022,4,District,Mumbai Suburban,5831539
+2022,4,District,Hyderabad,4962214
+2022,4,District,Ahmadabad,4530853
+2022,4,District,Rangareddy,4296707
+2022,4,District,North Twenty Four Parganas,3755017
+2022,4,District,Surat,3747780
+2022,4,Pincode,201301,814008
+2022,4,Pincode,110059,685596
+2022,4,Pincode,560068,630255
+2022,4,Pincode,421302,608005
+2022,4,Pincode,500072,547282
+2022,4,Pincode,122001,542209
+2022,4,Pincode,110092,534009
+2022,4,Pincode,110086,477514
+2022,4,Pincode,121004,468607
+2022,4,Pincode,201009,451153
+2023,1,State,Maharashtra,58470784
+2023,1,State,Uttar Pradesh,47806049
+2023,1,State,Karnataka,37681426
+2023,1,State,Andhra Pradesh,29065863
+2023,1,State,Rajasthan,28523031
+2023,1,State,Telangana,26804259
+2023,1,State,West Bengal,26732895
+2023,1,State,Tamil Nadu,26270663
+2023,1,State,Madhya Pradesh,24002818
+2023,1,State,Gujarat,23436230
+2023,1,District,Bengaluru Urban,15290372
+2023,1,District,Pune,10037022
+2023,1,District,Thane,6314618
+2023,1,District,Jaipur,6247095
+2023,1,District,Mumbai Suburban,6095695
+2023,1,District,Hyderabad,5176899
+2023,1,District,Ahmadabad,4734630
+2023,1,District,Rangareddy,4483193
+2023,1,District,North Twenty Four Parganas,3926974
+2023,1,District,Surat,3919829
+2023,1,Pincode,201301,851451
+2023,1,Pincode,110059,716856
+2023,1,Pincode,560068,658173
+2023,1,Pincode,421302,636458
+2023,1,Pincode,500072,570652
+2023,1,Pincode,122001,566889
+2023,1,Pincode,110092,557488
+2023,1,Pincode,110086,500213
+2023,1,Pincode,121004,490243
+2023,1,Pincode,201009,472156
+2023,2,State,Maharashtra,60766850
+2023,2,State,Uttar Pradesh,49829833
+2023,2,State,Karnataka,39122314
+2023,2,State,Andhra Pradesh,30240061
+2023,2,State,Rajasthan,29745609
+2023,2,State,West Bengal,27827662
+2023,2,State,Telangana,27814633
+2023,2,State,Tamil Nadu,27317599
+2023,2,State,Madhya Pradesh,25042930
+2023,2,State,Gujarat,24396768
+2023,2,District,Bengaluru Urban,15812243
+2023,2,District,Pune,10396344
+2023,2,District,Thane,6552282
+2023,2,District,Jaipur,6490210
+2023,2,District,Mumbai Suburban,6322778
+2023,2,District,Hyderabad,5349842
+2023,2,District,Ahmadabad,4913610
+2023,2,District,Rangareddy,4638501
+2023,2,District,North Twenty Four Parganas,4079270
+2023,2,District,Surat,4076929
+2023,2,Pincode,201301,883262
+2023,2,Pincode,110059,744061
+2023,2,Pincode,560068,680831
+2023,2,Pincode,421302,662196
+2023,2,Pincode,500072,589156
+2023,2,Pincode,122001,587988
+2023,2,Pincode,110092,577301
+2023,2,Pincode,110086,520976
+2023,2,Pincode,121004,509776
+2023,2,Pincode,201009,490549
+2023,3,State,Maharashtra,63150997
+2023,3,State,Uttar Pradesh,51870932
+2023,3,State,Karnataka,40634390
+2023,3,State,Andhra Pradesh,31493897
+2023,3,State,Rajasthan,30997182
+2023,3,State,West Bengal,28966414
+2023,3,State,Telangana,28896668
+2023,3,State,Tamil Nadu,28405436
+2023,3,State,Madhya Pradesh,26109033
+2023,3,State,Gujarat,25383429
+2023,3,District,Bengaluru Urban,16382332
+2023,3,District,Pune,10780092
+2023,3,District,Thane,6802106
+2023,3,District,Jaipur,6745507
+2023,3,District,Mumbai Suburban,6560867
+2023,3,District,Hyderabad,5543537
+2023,3,District,Ahmadabad,5105557
+2023,3,District,Rangareddy,4809474
+2023,3,District,North Twenty Four Parganas,4241525
+2023,3,District,Surat,4238878
+2023,3,Pincode,201301,916333
+2023,3,Pincode,110059,772107
+2023,3,Pincode,560068,703693
+2023,3,Pincode,421302,688520
+2023,3,Pincode,122001,609934
+2023,3,Pincode,500072,609887
+2023,3,Pincode,110092,598195
+2023,3,Pincode,110086,540985
+2023,3,Pincode,121004,529674
+2023,3,Pincode,201009,509567
+2023,4,State,Maharashtra,65422120
+2023,4,State,Uttar Pradesh,53799813
+2023,4,State,Karnataka,42031396
+2023,4,State,Andhra Pradesh,32658698
+2023,4,State,Rajasthan,32157348
+2023,4,State,West Bengal,30064546
+2023,4,State,Telangana,29902636
+2023,4,State,Tamil Nadu,29452801
+2023,4,State,Madhya Pradesh,27078072
+2023,4,State,Gujarat,26312655
+2023,4,District,Bengaluru Urban,16895567
+2023,4,District,Pune,11135186
+2023,4,District,Thane,7044610
+2023,4,District,Jaipur,6983265
+2023,4,District,Mumbai Suburban,6796218
+2023,4,District,Hyderabad,5720710
+2023,4,District,Ahmadabad,5282400
+2023,4,District,Rangareddy,4964411
+2023,4,District,North Twenty Four Parganas,4396190
+2023,4,District,Surat,4396038
+2023,4,Pincode,201301,948041
+2023,4,Pincode,110059,798856
+2023,4,Pincode,560068,727330
+2023,4,Pincode,421302,714635
+2023,4,Pincode,122001,630836
+2023,4,Pincode,500072,628306
+2023,4,Pincode,110092,617934
+2023,4,Pincode,110086,561319
+2023,4,Pincode,121004,549020
+2023,4,Pincode,201009,527630
+2024,1,State,Maharashtra,68016876
+2024,1,State,Uttar Pradesh,56028765
+2024,1,State,Karnataka,43668141
+2024,1,State,Andhra Pradesh,34008709
+2024,1,State,Rajasthan,33505514
+2024,1,State,West Bengal,31306843
+2024,1,State,Telangana,31082447
+2024,1,State,Tamil Nadu,30638750
+2024,1,State,Madhya Pradesh,28238554
+2024,1,State,Gujarat,27381972
+2024,1,District,Bengaluru Urban,17506580
+2024,1,District,Pune,11546171
+2024,1,District,Thane,7314981
+2024,1,District,Jaipur,7253881
+2024,1,District,Mumbai Suburban,7055629
+2024,1,District,Hyderabad,5928930
+2024,1,District,Ahmadabad,5485010
+2024,1,District,Rangareddy,5149421
+2024,1,District,North Twenty Four Parganas,4570438
+2024,1,District,Surat,4569769
+2024,1,Pincode,201301,984239
+2024,1,Pincode,110059,829414
+2024,1,Pincode,560068,753700
+2024,1,Pincode,421302,743686
+2024,1,Pincode,122001,654633
+2024,1,Pincode,500072,650991
+2024,1,Pincode,110092,640499
+2024,1,Pincode,110086,583639
+2024,1,Pincode,121004,570844
+2024,1,Pincode,201009,548384
+2024,2,State,Maharashtra,70597223
+2024,2,State,Uttar Pradesh,58199149
+2024,2,State,Karnataka,45290606
+2024,2,State,Andhra Pradesh,35303719
+2024,2,State,Rajasthan,34773619
+2024,2,State,West Bengal,32540397
+2024,2,State,Telangana,32232171
+2024,2,State,Tamil Nadu,31818880
+2024,2,State,Madhya Pradesh,29324466
+2024,2,State,Gujarat,28439885
+2024,2,District,Bengaluru Urban,18127475
+2024,2,District,Pune,11964579
+2024,2,District,Thane,7591749
+2024,2,District,Jaipur,7522194
+2024,2,District,Mumbai Suburban,7325715
+2024,2,District,Hyderabad,6138190
+2024,2,District,Ahmadabad,5693015
+2024,2,District,Rangareddy,5331711
+2024,2,District,Surat,4747919
+2024,2,District,North Twenty Four Parganas,4746814
+2024,2,Pincode,201301,1021560
+2024,2,Pincode,110059,860657
+2024,2,Pincode,560068,780422
+2024,2,Pincode,421302,772632
+2024,2,Pincode,122001,679107
+2024,2,Pincode,500072,673094
+2024,2,Pincode,110092,664004
+2024,2,Pincode,110086,606637
+2024,2,Pincode,121004,593014
+2024,2,Pincode,201009,569781
+2024,3,State,Maharashtra,69641161
+2024,3,State,Uttar Pradesh,67922000
+2024,3,State,Karnataka,44548391
+2024,3,State,Rajasthan,35583171
+2024,3,State,West Bengal,33612828
+2024,3,State,Tamil Nadu,32965209
+2024,3,State,Bihar,31899315
+2024,3,State,Madhya Pradesh,31764084
+2024,3,State,Telangana,30776242
+2024,3,State,Andhra Pradesh,29145303
+2024,3,District,Bengaluru Urban,17566351
+2024,3,District,Pune,12392676
+2024,3,District,Thane,7103828
+2024,3,District,Mumbai Suburban,6688601
+2024,3,District,Rangareddy,5769438
+2024,3,District,Hyderabad,5757304
+2024,3,District,Ahmedabad,5580316
+2024,3,District,Chennai,5387490
+2024,3,District,Jaipur,5219354
+2024,3,District,Surat,4957655
+2024,3,Pincode,201301,899384
+2024,3,Pincode,421302,844375
+2024,3,Pincode,110059,808649
+2024,3,Pincode,500072,733364
+2024,3,Pincode,452001,686231
+2024,3,Pincode,410501,663831
+2024,3,Pincode,121004,646607
+2024,3,Pincode,201009,646266
+2024,3,Pincode,560068,645173
+2024,3,Pincode,110092,639422
+2024,4,State,Maharashtra,71807805
+2024,4,State,Uttar Pradesh,70474113
+2024,4,State,Karnataka,45917653
+2024,4,State,Rajasthan,36828375
+2024,4,State,West Bengal,34750181
+2024,4,State,Tamil Nadu,33966610
+2024,4,State,Bihar,33345285
+2024,4,State,Madhya Pradesh,32876660
+2024,4,State,Telangana,31726856
+2024,4,State,Andhra Pradesh,29984431
+2024,4,District,Bengaluru Urban,18101416
+2024,4,District,Pune,12734314
+2024,4,District,Thane,7300941
+2024,4,District,Mumbai Suburban,6875379
+2024,4,District,Rangareddy,5988320
+2024,4,District,Hyderabad,5916910
+2024,4,District,Ahmedabad,5702922
+2024,4,District,Chennai,5541760
+2024,4,District,Jaipur,5371681
+2024,4,District,North Twenty Four Parganas,5085095
+2024,4,Pincode,201301,964283
+2024,4,Pincode,421302,871910
+2024,4,Pincode,110059,826819
+2024,4,Pincode,500072,755978
+2024,4,Pincode,452001,709324
+2024,4,Pincode,410501,683435
+2024,4,Pincode,560068,663903
+2024,4,Pincode,121004,661818
+2024,4,Pincode,201009,660474
+2024,4,Pincode,110092,654020
